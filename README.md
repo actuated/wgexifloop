@@ -1,5 +1,5 @@
 # wgexifloop
-Shell script to read a list of URLs, wget each document, and retrieve name metadata with `exiftool` while creating CSV output to track what metadata came from what URL.
+Shell script to read a list of URLs, `wget` each document, and retrieve name metadata with `exiftool` while creating CSV output to track what metadata came from what URL.
 
 # Usage
 ```
